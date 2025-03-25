@@ -1,1 +1,2 @@
 # COMPUTER-ARCHITECTURE
+This project requires implementing a linear equations solver using Cramer's Rule in MIPS assembly. The solver handles two- or three-variable systems from an input text file, validates the file, and runs in a loop until the user exits. The user can choose to display results on-screen or save them to a file, with error messages for invalid inputs. Multiple systems can be separated by empty lines in the file.
